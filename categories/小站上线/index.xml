@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小站上线 on sunyuesimida&#39;s workbook</title>
+    <link>https://sunyuesimida.github.io/categories/%E5%B0%8F%E7%AB%99%E4%B8%8A%E7%BA%BF/</link>
+    <description>Recent content in 小站上线 on sunyuesimida&#39;s workbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://sunyuesimida.github.io/categories/%E5%B0%8F%E7%AB%99%E4%B8%8A%E7%BA%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>小站上线</title>
+      <link>https://sunyuesimida.github.io/posts/creating-a-new-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunyuesimida.github.io/posts/creating-a-new-theme/</guid>
+      <description>随便写点儿什么 小站基于hugo编译静态页面
+新建一个站点 Let&amp;rsquo;s use Hugo to create a new web site. I&amp;rsquo;m a Mac user, so I&amp;rsquo;ll create mine in my home directory, in the Sites folder. If you&amp;rsquo;re using Linux, you might have to create the folder first.
+The &amp;ldquo;new site&amp;rdquo; command will create a skeleton of a site. It will give you the basic directory structure and a useable configuration file.
+1 2 3 4 5 6 7 8 9 10 11 12  $ hugo new site ~/Sites/zafta $ cd ~/Sites/zafta $ ls -l total 8 drwxr-xr-x 7 quoha staff 238 Sep 29 16:49 .</description>
+    </item>
+    
+  </channel>
+</rss>

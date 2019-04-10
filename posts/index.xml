@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on sunyuesimida&#39;s workbook</title>
+    <link>https://sunyuesimida.github.io/posts/</link>
+    <description>Recent content in Posts on sunyuesimida&#39;s workbook</description>
+    <meta name="generator" content="Hugo 0.54.0" />
+    <lastBuildDate>Wed, 10 Apr 2019 09:11:30 +0800</lastBuildDate>
+    
+        <atom:link href="https://sunyuesimida.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>项目2</title>
+      <link>https://sunyuesimida.github.io/posts/project/proj2/</link>
+      <pubDate>Wed, 10 Apr 2019 09:11:30 +0800</pubDate>
+      
+      <guid>https://sunyuesimida.github.io/posts/project/proj2/</guid>
+      <description>一个无聊的项目</description>
+    </item>
+    
+    <item>
+      <title>项目1</title>
+      <link>https://sunyuesimida.github.io/posts/project/proj1/</link>
+      <pubDate>Wed, 10 Apr 2019 09:09:56 +0800</pubDate>
+      
+      <guid>https://sunyuesimida.github.io/posts/project/proj1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小站上线</title>
+      <link>https://sunyuesimida.github.io/posts/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunyuesimida.github.io/posts/first/</guid>
+      <description>经过一番努力，终于成功搭建一个基于pages服务的小站</description>
+    </item>
+    
+  </channel>
+</rss>

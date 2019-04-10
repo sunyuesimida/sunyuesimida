@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on sunyuesimida&#39;s workbook</title>
+    <link>https://sunyuesimida.github.io/categories/project/</link>
+    <description>Recent content in Project on sunyuesimida&#39;s workbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Apr 2019 09:11:30 +0800</lastBuildDate>
+    
+	<atom:link href="https://sunyuesimida.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>项目2</title>
+      <link>https://sunyuesimida.github.io/posts/project/proj2/</link>
+      <pubDate>Wed, 10 Apr 2019 09:11:30 +0800</pubDate>
+      
+      <guid>https://sunyuesimida.github.io/posts/project/proj2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>项目1</title>
+      <link>https://sunyuesimida.github.io/posts/project/proj1/</link>
+      <pubDate>Wed, 10 Apr 2019 09:09:56 +0800</pubDate>
+      
+      <guid>https://sunyuesimida.github.io/posts/project/proj1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
